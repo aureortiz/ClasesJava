@@ -1,0 +1,24 @@
+BARCELONA:
+Gustavo Vargas
+Abel Martinez Rodriguez
+Leo Messi
+David Villa
+Carles Puyol
+
+REAL MADRID:
+Cristiano Ronaldo
+Pepe
+Daniel Camilo Sierra
+Pablo Sanchiño Gonzalez
+
+BETIS:
+Pablo Muñoz Arenas
+Carlos Martinez Suarez
+Diego Cruz Fernandez
+Irene Castro Nuñez
+Daniel Santiago Muñoz
+
+VALENCIA:
+Iago Nóvoa Gonzalez
+Diego David Ángel Carro Armada
+Aurelio Ortiz de Salazar Peris
