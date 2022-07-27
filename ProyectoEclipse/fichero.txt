@@ -1,21 +1,19 @@
-BARCELONA:
-Gustavo Vargas
-Abel Martinez Rodriguez
-Carles Puyol
-REAL MADRID:
-Pepe
-Daniel Camilo Sierra
-Pablo Sanchiño Gonzalez
-David Villa
-BETIS:
-Pablo Muñoz Arenas
-Carlos Martinez Suarez
-Diego Cruz Fernandez
-Irene Castro Nuñez
-Daniel Santiago Muñoz
-Cristiano Ronaldo
-VALENCIA:
-Iago Nóvoa Gonzalez
-Diego David Ángel Carro Armada
-Aurelio Ortiz de Salazar Peris
-Leo Messi
+ARCHIVO GENERADO EL 2022/07/27
+
+Marca: Audi
+Modelo: A1 Velocidad: 270
+Modelo: A2 Velocidad: 280
+Modelo: A3 Velocidad: 290
+Modelo: A5 Velocidad: 300
+Modelo: A8 Velocidad: 310
+
+Marca: Alfa Romeo
+Modelo: AA Velocidad: 300
+Modelo: BB Velocidad: 310
+Modelo: CC Velocidad: 300
+
+Marca: Ferrari
+Modelo: Roja Velocidad: 450
+
+Marca: Ford
+Modelo: Mustang Velocidad: 330

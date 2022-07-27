@@ -39,7 +39,6 @@ public class ComoEstas {
 				System.out.println("Tranquilo, seguro que luego todo sale bien");
 				break;
 		}
-
+		
 	}
-
 }
